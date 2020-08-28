@@ -23,7 +23,7 @@ email: marina.k@uni-bonn.de
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Marina Khismatullina, Job Market candidate 2020 from the University of Bonn.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marina-khi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  marina-khi
 linkedin_username: marina-khi
 instagram_username: missius
