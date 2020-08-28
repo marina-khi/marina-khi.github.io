@@ -29,7 +29,7 @@ linkedin_username: marina-khi
 instagram_username: missius
 
 # Build settings
-theme: bay_jekyll_theme
+#theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
