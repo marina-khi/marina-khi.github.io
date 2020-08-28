@@ -2,7 +2,6 @@
 
 layout: home
 title: "Home"
-permalink: /
 profile_picture:
   src: /assets/img/profile_pic.jpg
   alt: Profile photo

@@ -3,13 +3,13 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_base.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_layout.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_site.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_work.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_blog.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_post.scss",
-		"../../../../../Library/Ruby/Gems/2.6.0/gems/bay_jekyll_theme-1.0.13/_sass/_404.scss"
+		"_sass/_base.scss",
+		"_sass/_layout.scss",
+		"_sass/_site.scss",
+		"_sass/_work.scss",
+		"_sass/_blog.scss",
+		"_sass/_post.scss",
+		"_sass/_404.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n// Our variables\n$base-url: \"\";\n\n$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;\n$base-font-size: 14px;\n$small-font-size: $base-font-size * 0.875;\n$base-line-height: 1.7;\n\n$spacing-unit: 30px;\n\n$text-color: #111;\n$background-color: #fdfdfd;\n$brand-color: #2a7ae2;\n\n$grey-color: #828282;\n$grey-color-light: lighten($grey-color, 40%);\n$grey-color-dark: darken($grey-color, 25%);\n\n$on-mobile: 500px;\n$on-laptop: 800px;\n\n@mixin media-query($device) {\n  @media screen and (max-width: $device) {\n    @content;\n  }\n}\n\n// Import partials from `sass_dir` (defaults to `_sass`)\n@import \"base\", \"layout\", \"site\", \"work\", \"blog\", \"post\", \"404\";\n",
