@@ -40,7 +40,6 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
     - name: Research
     - name: CV
     - name: Teaching
