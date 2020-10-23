@@ -10,7 +10,7 @@ profile_picture:
 
 ## Welcome!
 
-I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the Univeristy of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparamteric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods. You can find the short version of my CV [here][1], my Job Market Paper [here][3], and an overview of my research [here][2].
+I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the University of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods. You can find the short version of my CV [here][1], my Job Market Paper [here][3], and an overview of my research [here][2].
 
 [1]:{{ site.url }}/download/CV_short.pdf
 [2]:{{ site.url }}/research
