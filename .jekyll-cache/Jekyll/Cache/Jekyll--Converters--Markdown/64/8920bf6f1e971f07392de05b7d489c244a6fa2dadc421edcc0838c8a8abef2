@@ -1,0 +1,37 @@
+I"}<h2 id="welcome">Welcome!</h2>
+
+<p>I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the University of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods. You can find the short version of my CV <a href="http://localhost:4000/download/CV_Khismatullina.pdf">here</a> and my Job Market Paper <a href="http://localhost:4000/download/JMP_Khismatullina.pdf">here</a>.</p>
+
+<p>I will be available for interviews at the EEA’s and AEA’s online job market meetings.</p>
+
+<p><strong>References:</strong> <a href="https://mivogt.github.io/"> Prof. Dr. Michael Vogt </a> (University of Ulm), <a href="http://www.statistik.uni-bonn.de/members/prof-dr-a-kneip/?L=1"> Prof. Dr. Alois Kneip </a> (University of Bonn), <a href="https://sites.google.com/view/joachimfreyberger/home"> Prof. Dr. Joachim Freyberger </a> (University of Bonn)</p>
+
+<h2 id="research">Research</h2>
+
+<p style="line-height:120%"><h3> Nonparametric comparison of epidemic time trends: the case of COVID-19<br />
+<em>(with Michael Vogt, submitted to Journal of Econometrics)</em></h3></p>
+
+<h3 id="job-market-paper"><a href="http://localhost:4000/download/JMP_Khismatullina.pdf">Job Market Paper</a></h3>
+
+<p>The COVID-19 pandemic is one of the most pressing issues at present. A question which is particularly important for governments and policy makers is the following: Does the virus spread in the same way in different countries? Or are there significant differences in the development of the epidemic? In this paper, we devise new inference methods that allow to detect differences in the development of the COVID-19 epidemic across countries in a statistically rigorous way. In our empirical study, we use the methods to compare the outbreak patterns of the epidemic in a number of European countries.</p>
+
+<p style="line-height:120%"><h3> Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors<br />
+<em>(with Michael Vogt, published in Journal of the Royal Statistical Society: Series B, Volume 82, Number 1 (2020), 5-37)</em>
+</h3>
+</p>
+
+<h3 id="paper-and-supplement"><a href="http://localhost:4000/download/onetrend_Khismatullina.pdf">Paper</a> and <a href="http://localhost:4000/download/onetrend_supplement.pdf">Supplement</a></h3>
+
+<p>We develop new multiscale methods to test qualitative hypotheses about the function \(m\) in the nonparametric regression model \(Y_{t,T}=m(t/T)+\varepsilon_t\) with time series errors \(\varepsilon_t\). In time series applications, \(m\) represents a nonparametric time trend. Practitioners are often interested in whether the trend \(m\) has certain shape properties. For example, they would like to know whether \(m\) is constant or whether it is increasing or decreasing in certain time intervals. Our multiscale methods enable us to test for such shape properties of the trend \(m\). To perform the methods, we require an estimator of the long‐run error variance \(\sigma^2 = \sum_{l = -\infty}^{\infty} cov(\varepsilon_0, \varepsilon_l)\). We propose a new difference‐based estimator of \(\sigma^2\) for the case that \(\{\varepsilon_t\}\) belongs to the class of auto‐regressive AR(\(\infty\))  processes. In the technical part of the paper, we derive asymptotic theory for the proposed multiscale test and the estimator of the long‐run error variance. The theory is complemented by a simulation study and an empirical application to climate data.</p>
+
+<p style="line-height:120%"><h3> Multiscale Testing for Equality of Nonparametric Trend Curves<br />
+<em>(with Michael Vogt, working paper)</em></h3></p>
+
+<p>The comparison of nonparametric curves is a classic topic in econometrics and statistics. Depending on the specific application, the curves of interest are densities, distribution functions, time trends or regression curves. In this paper, we focus on the comparison of nonparametric trend curves. We develop new multiscale method for testing whether the trend curves are the same across observed time series. Moreover, the test allows us to detect the regions where the trend curves are different. We illustrate our method with an application to daily price returns for a number of US companies.</p>
+
+<p><em>Draft is available upon request</em></p>
+
+<h3 id="multiscale-r-package">Multiscale R package</h3>
+
+<p>This package implements the multiscale analysis proposed in the papers “Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors” and “Nonparametric comparison of epidemic time trends: the case of COVID-19”. Specifically, it allows to test qualitative hypotheses (such as shape properties) about the nonparametric time trend \(m\) in the model \(Y_t = m(t/T) + \varepsilon_t\) with time series errors \(\varepsilon_t\) and to compare the nonparametric time trends in the context of epidemic modelling. The package as well as the detailed description of its functionality can be found in <a href="https://github.com/marina-khi/multiscale"> this github repository</a>.</p>
+:ET

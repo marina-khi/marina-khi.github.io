@@ -31,7 +31,7 @@ slug: teaching/
    
    You can find the evaluations for this course [here][1]
 
-[1]:{{ site.url }}/download/evaluations.pdf
+[1]:{{ site.url }}/download/Evaluations_Khismatullina.pdf
 
 
 ## National Research University “Higher School of Economics”
