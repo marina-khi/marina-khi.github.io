@@ -20,7 +20,7 @@ I will be available for interviews at the EEA's and AEA's online job market meet
 
 **References:** <a href="https://mivogt.github.io/"> Prof. Dr. Michael Vogt </a> (University of Ulm), <a href="http://www.statistik.uni-bonn.de/members/prof-dr-a-kneip/?L=1"> Prof. Dr. Alois Kneip </a> (University of Bonn), <a href="https://sites.google.com/view/joachimfreyberger/home"> Prof. Dr. Joachim Freyberger </a> (University of Bonn)
 
-**Email:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
+**E-mail:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
 
 
 
@@ -55,9 +55,9 @@ We develop new multiscale methods to test qualitative hypotheses about the funct
 <p style="line-height:150%"><b> Multiscale Testing for Equality of Nonparametric Trend Curves<br/>
 <em>(with Michael Vogt, working paper)</em></b></p>
 
-The comparison of nonparametric curves is a classic topic in econometrics and statistics. Depending on the specific application, the curves of interest are densities, distribution functions, time trends or regression curves. In this paper, we focus on the comparison of nonparametric trend curves. We develop new multiscale method for testing whether the trend curves are the same across observed time series. Moreover, the test allows us to detect the regions where the trend curves are different. We illustrate our method with an application to daily price returns for a number of US companies.
+Draft is available upon request
 
-*Draft is available upon request*
+The comparison of nonparametric curves is a classic topic in econometrics and statistics. Depending on the specific application, the curves of interest are densities, distribution functions, time trends or regression curves. In this paper, we focus on the comparison of nonparametric trend curves. We develop new multiscale method for testing whether the trend curves are the same across observed time series. Moreover, the test allows us to detect the regions where the trend curves are different. We illustrate our method with an application to daily price returns for a number of US companies.
 
 **Multiscale R package**
 
