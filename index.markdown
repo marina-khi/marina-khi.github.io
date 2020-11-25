@@ -28,7 +28,7 @@ I will be available for interviews at the EEA's and AEA's online job market meet
 
 
 <p style="line-height:150%"><b> Nonparametric comparison of epidemic time trends: the case of COVID-19<br/>
-<em>(with Michael Vogt, submitted to Journal of Econometrics)</em></b></p>
+<em>(with Michael Vogt, R&R at Journal of Econometrics)</em></b></p>
 
 *[Job Market Paper][4]*
 
