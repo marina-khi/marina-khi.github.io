@@ -18,7 +18,7 @@ I am a Ph.D. candidate in Economics at the University of Bonn and a research fel
 
 I will be available for interviews at the EEA's and AEA's online job market meetings.
 
-**References:** <a href="https://mivogt.github.io/"> Prof. Dr. Michael Vogt </a> (University of Ulm), <a href="http://www.statistik.uni-bonn.de/members/prof-dr-a-kneip/?L=1"> Prof. Dr. Alois Kneip </a> (University of Bonn), <a href="https://sites.google.com/view/joachimfreyberger/home"> Prof. Dr. Joachim Freyberger </a> (University of Bonn)
+**References:** <a href="https://sites.google.com/view/joachimfreyberger/home"> Prof. Dr. Joachim Freyberger </a> (University of Bonn), <a href="http://www.statistik.uni-bonn.de/members/prof-dr-a-kneip/?L=1"> Prof. Dr. Alois Kneip </a> (University of Bonn), <a href="https://mivogt.github.io/"> Prof. Dr. Michael Vogt </a> (University of Ulm)
 
 **E-mail:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
 
