@@ -4,21 +4,6 @@ title: Research
 slug: research/
 ---
 
-## **Job Market Paper**
-
-
-## Nonparametric comparison of epidemic time trends: the case of COVID-19
-*(with Michael Vogt)*
-
-The COVID-19 pandemic is one of the most pressing issues at present. A question which is particularly important for governments and policy makers is the following: Does the virus spread in the same way in different countries? Or are there significant differences in the development of the epidemic? In this paper, we devise new inference methods that allow to detect differences in the development of the COVID-19 epidemic across countries in a statistically rigorous way. In our empirical study, we use the methods to compare the outbreak patterns of the epidemic in a number of European countries.
-
-*Submitted to Journal of Econometrics*
-
-[Paper][3]
-
-[3]:{{ site.url }}/download/epidemic_paper.pdf
-
-
 ## **Publications**
 
 ## Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors
@@ -33,8 +18,19 @@ We develop new multiscale methods to test qualitative hypotheses about the funct
 
 [Paper][1] and [Supplement][2]
 
-[1]:{{ site.url }}/download/onetrend_paper.pdf
-[2]:{{ site.url }}/download/onetrend_supplement.pdf
+[1]:{{ site.url }}/download/Khismatullina_onetrend.pdf
+[2]:{{ site.url }}/download/Khismatullina_onetrend_supplement.pdf
+
+## Nonparametric comparison of epidemic time trends: the case of COVID-19
+*(with Michael Vogt)*
+
+The COVID-19 pandemic is one of the most pressing issues at present. A question which is particularly important for governments and policy makers is the following: Does the virus spread in the same way in different countries? Or are there significant differences in the development of the epidemic? In this paper, we devise new inference methods that allow to detect differences in the development of the COVID-19 epidemic across countries in a statistically rigorous way. In our empirical study, we use the methods to compare the outbreak patterns of the epidemic in a number of European countries.
+
+*Forthcoming in Journal of Econometrics*
+
+[Paper][3]
+
+[3]:{{ site.url }}/download/Khismatullina_epidemic.pdf
 
 ## **Working papers**
 

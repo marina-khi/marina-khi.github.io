@@ -10,15 +10,7 @@ profile_picture:
 
 ## Welcome!
 
-I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the University of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods. You can find the short version of my CV [here][1] and my Job Market Paper [here][3].
-
-[1]:{{ site.url }}/download/CV_Khismatullina.pdf
-[2]:{{ site.url }}/research
-[3]:{{ site.url }}/download/JMP_Khismatullina.pdf
-
-I will be available for interviews at the EEA's and AEA's online job market meetings.
-
-**References:** <a href="https://sites.google.com/view/joachimfreyberger/home"> Prof. Dr. Joachim Freyberger </a> (University of Bonn), <a href="http://www.statistik.uni-bonn.de/members/prof-dr-a-kneip/?L=1"> Prof. Dr. Alois Kneip </a> (University of Bonn), <a href="https://mivogt.github.io/"> Prof. Dr. Michael Vogt </a> (University of Ulm)
+I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the University of Bonn. In September, I will be joining the Department of Econometrics at Erasmus University Rotterdam as a tenure track Assistant Professor. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods.
 
 **E-mail:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
 
@@ -28,14 +20,14 @@ I will be available for interviews at the EEA's and AEA's online job market meet
 
 
 <p style="line-height:150%"><b> Nonparametric comparison of epidemic time trends: the case of COVID-19<br/>
-<em>(with Michael Vogt, R&R at Journal of Econometrics)</em></b></p>
+<em>(with Michael Vogt, forthcoming in Journal of Econometrics)</em></b></p>
 
-*[Job Market Paper][4]*
+*[Paper][4]*
 
 The COVID-19 pandemic is one of the most pressing issues at present. A question which is particularly important for governments and policy makers is the following: Does the virus spread in the same way in different countries? Or are there significant differences in the development of the epidemic? In this paper, we devise new inference methods that allow to detect differences in the development of the COVID-19 epidemic across countries in a statistically rigorous way. In our empirical study, we use the methods to compare the outbreak patterns of the epidemic in a number of European countries.
 
 
-[4]:{{ site.url }}/download/JMP_Khismatullina.pdf
+[4]:{{ site.url }}/download/Khismatullina_epidemic.pdf
 
 <p style="line-height:150%"><b> Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors<br/>
 <em>(with Michael Vogt, published in Journal of the Royal Statistical Society: Series B, Volume 82, Number 1 (2020), 5-37)</em>
@@ -49,8 +41,8 @@ We develop new multiscale methods to test qualitative hypotheses about the funct
 
 {% endraw %}
 
-[5]:{{ site.url }}/download/onetrend_Khismatullina.pdf
-[6]:{{ site.url }}/download/onetrend_supplement.pdf
+[5]:{{ site.url }}/download/Khismatullina_onetrend.pdf
+[6]:{{ site.url }}/download/Khismatullina_onetrend_supplement.pdf
 
 <p style="line-height:150%"><b> Multiscale Testing for Equality of Nonparametric Trend Curves<br/>
 <em>(with Michael Vogt, working paper)</em></b></p>

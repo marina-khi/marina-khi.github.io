@@ -8,6 +8,9 @@ slug: teaching/
 
 ## University of Bonn
 
+*  **Summer 2021:**
+   [Computational Statistics][2] (Master) - Lecturer
+
 *  **Winter 2020/21:**
    Wissenschaftliches Arbeiten (Bachelor) - Lecturer
    
@@ -32,6 +35,8 @@ slug: teaching/
    You can find the evaluations for this course [here][1]
 
 [1]:{{ site.url }}/download/Evaluations_Khismatullina.pdf
+
+[2]:https://github.com/marina-khi/CompStat_2021
 
 
 ## National Research University “Higher School of Economics”
