@@ -12,7 +12,7 @@ profile_picture:
 
 I am an Assistant Professor of Econometrics at Erasmus University Rotterdam. I have obtained my PhD in Economics in August 2021 at the University of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods.
 
-**E-mail:** <a href="mailto:khismatullina@ese.eur.nl">mailto:khismatullina@ese.eur.nl</a>
+**E-mail:** <a href="mailto:khismatullina@ese.eur.nl">khismatullina@ese.eur.nl</a>
 
 
 
