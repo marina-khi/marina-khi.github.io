@@ -7,14 +7,14 @@ slug: about/
 ## Contact information:
 
 <p style="line-height:150%">
-Rheinische Friedrich-Wilhelms-Universität Bonn<br/>
-Institute of Finance and Statistics<br/>
-Adenauerallee 24-26<br/>
-53113 Bonn<br/>
-Germany<br/>
+Erasmus University Rotterdam<br/> 
+Erasmus School of Economics<br/>
+Burgemeester Oudlaan 50<br/>
+3062 PA Rotterdam<br/>
+Netherlands<br/>
 </p>
 
-**Phone:** +49 (0) 228-7362178
+**Phone:** +31 (0)10 408 12 59
 
-**E-mail:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
+**E-mail:** <a href="mailto:khismatullina@ese.eur.nl">khismatullina@ese.eur.nl</a>
 

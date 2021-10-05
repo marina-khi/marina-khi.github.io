@@ -10,9 +10,9 @@ profile_picture:
 
 ## Welcome!
 
-I am a Ph.D. candidate in Economics at the University of Bonn and a research fellow at the Institute of Finance and Statistics at the University of Bonn. In September, I will be joining the Department of Econometrics at Erasmus University Rotterdam as an Assistant Professor. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods.
+I am an Assistant Professor of Econometrics at Erasmus University Rotterdam. I have obtained my PhD in Economics in August 2021 at the University of Bonn. I am interested in Econometrics and Statistics, specifically in Nonparametric Statistics and Time Series Analysis. I am also interested in economic applications for statistical methods.
 
-**E-mail:** <a href="mailto:marina.k@uni-bonn.de">marina.k@uni-bonn.de</a>
+**E-mail:** <a href="mailto:khismatullina@ese.eur.nl">mailto:khismatullina@ese.eur.nl</a>
 
 
 
