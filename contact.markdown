@@ -16,5 +16,5 @@ Netherlands<br/>
 
 **Phone:** +31 (0)10 408 12 59
 
-**E-mail:** <a href="mailto:khismatullina@ese.eur.nl">khismatullina@ese.eur.nl</a>
+**E-mail:** khismatullina [at] ese.eur.nl
 
