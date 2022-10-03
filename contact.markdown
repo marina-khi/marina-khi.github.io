@@ -14,7 +14,5 @@ Burgemeester Oudlaan 50<br/>
 Netherlands<br/>
 </p>
 
-**Phone:** +31 (0)10 408 12 59
-
 **E-mail:** khismatullina [at] ese.eur.nl
 

@@ -6,6 +6,12 @@ slug: teaching/
 
 # Teaching
 
+## Erasmus University Rotterdam
+
+*  **Academic year 2021/2022:**
+   Mathematical Methods (Bachelor) - Lecturer
+   Seminar Cases in Quantitative Marketing (Master) - Case supervisor
+
 ## University of Bonn
 
 *  **Summer 2021:**
