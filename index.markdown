@@ -47,9 +47,12 @@ We develop new multiscale methods to test qualitative hypotheses about the funct
 <p style="line-height:150%"><b> Multiscale Testing for Equality of Nonparametric Trend Curves<br/>
 <em>(with Michael Vogt, working paper)</em></b></p>
 
-*Draft is available upon request*
+[Paper][7]
 
-The comparison of nonparametric curves is a classic topic in econometrics and statistics. Depending on the specific application, the curves of interest are densities, distribution functions, time trends or regression curves. In this paper, we focus on the comparison of nonparametric trend curves. We develop new multiscale method for testing whether the trend curves are the same across observed time series. Moreover, the test allows us to detect the regions where the trend curves are different. We illustrate our method with an application to daily price returns for a number of US companies.
+We develop new econometric methods for the comparison of nonparametric time trends. In many applications, practitioners are interested in whether the observed time series all have the same time trend. Moreover, they would often like to know which trends are different and in which time intervals they differ. We design a multiscale test to formally approach these questions. Specifically, we develop a test which allows to make rigorous confidence statements about which time trends are different and where (that is, in which time intervals) they differ. Based on our multiscale test, we further develop a clustering algorithm which allows to cluster the observed time series into groups with the same trend. We derive asymptotic theory for our test and clustering methods. The theory is complemented by a simulation study and two applications to house pricing data and GDP growth data.
+
+[7]:{{ site.url }}/download/Khismatullina_multipletrends.pdf
+
 
 **Multiscale R package**
 

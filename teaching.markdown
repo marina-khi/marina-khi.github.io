@@ -10,6 +10,8 @@ slug: teaching/
 
 *  **Academic year 2021/2022:**
    Mathematical Methods (Bachelor) - Lecturer
+
+*  **Academic year 2021/2022:**
    Seminar Cases in Quantitative Marketing (Master) - Case supervisor
 
 ## University of Bonn
